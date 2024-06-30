@@ -7,25 +7,19 @@
            
           😈 apt install python
            
-          😈 apt install python3
-           
           😈 apt install git
            
           😈 apt install pip
            
-          😈 git clone https://github.com/akashblackhat/cctv-Hack.py.git
+          😈 git clone https://github.com/MR-X-OWNER/TBCA-CC-HACK
            
-          😈 ls
+          😈 cd TBCA-CC-HACK
            
-          😈 cd cctv-Hack.py
-           
-          😈 ls
-           
-          😈 python cctv-Hack.py
+          😈 python TBCA_CC_HACK.py
  ### Hi there 👋
 
 <!--
-**akashblackhat/akashblackhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MR-X-OWNER/TBCA-CC-HACK** is a ✨ _special_ ✨ repository because its Coded By © Moinul without credit to copy my repository i fucked your mom every night anonymously🤘
 
 Here are some ideas to get you started:
 
