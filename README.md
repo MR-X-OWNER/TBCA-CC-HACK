@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ![красотищатокакая-code](https://user-images.githubusercontent.com/88341460/189535591-84f204da-08af-4989-821f-e6608902a4a1.gif)     
 
 
-<h1 align="center">Hi 👋,Developer MOINUL</h1>
+<h1 align="center">Hi 👋,I AM Developer MOINUL</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **hacking tools developer and android malware virous & has password cracker**
 
-- 📫 How to reach me **anonumousm**
 
 - ⚡ Fun fact **I Am Ethical Hacker**
 -                                                                                                                                                                                                                                                                                                                                         
